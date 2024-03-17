@@ -1,4 +1,4 @@
-# Leads_Scoring_Case_Study
+# Analyzing-Lead-Generation-of-an-Education-Company
 
 ## The Problem:
 
